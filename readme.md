@@ -5,6 +5,7 @@
 - Descrizione grafica. 
 - Descrizione del codice.
 - Utilizzo. 
+- Link al sito.
 
 ---
 
@@ -29,6 +30,10 @@ Nello specifico:
 - il tasto "-" diminuisce di uno il numero riportato nel counter 
 - il tasto "reset" riporta il numero del counter a 0 
 - il tasto "+" aumenta di uno il numero riportato nel counter 
+
+---
+
+[link](https://cenosillicaphobia.github.io/Javascript-Counter/)
 
 
 
