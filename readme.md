@@ -10,6 +10,8 @@
 
 ### La grafica del counter 
 
+![Counter](assets/img/Counter-screenshot.png)
+
 Ho deciso di realizzare un counter il più smart e pulito possibile, i colori sono estramamente ridotti per non creare particolari distrazioni ed il posizionamento di ogni elemento segue delle regole semplici dirette al renderlo di facile comprensione ed utilizzo. 
 
 ---
