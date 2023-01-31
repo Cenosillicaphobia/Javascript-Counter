@@ -19,7 +19,7 @@ Ho deciso di realizzare un counter il più smart e pulito possibile, i colori so
 
 ### Il codice 
 
-Per il codice ho seguito più o meno le stesse regole prefissatemi nella scelta stilistica, ho cercato di rendere il codice pulito, chiaro e facilmente fruibile riducendo al minimo gli elementi nel file `index.html`, mentre nel file `counter.js` ho prestato attenzione al suddividere con chiarezza varibili, funzioni ed i vari richiami alle funzioni scritte in precedenza. 
+Il file `HTML` contiene il minimo indispensabile perchè tutti gli elementi sono stati creati dinamicamente tramite manipolazione del DOM nel file `elements.js`, nel file `function.js` sono invece presenti tutte le funzioni necessarie al funzionamento del counter con relativi "event-listener". 
 
 --- 
 
